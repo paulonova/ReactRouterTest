@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../../new-indecision/src/styles/sass/index.css",
+	"sources": [
+		"../../../new-indecision/src/styles/sass/index.scss"
+	],
+	"sourcesContent": [
+		"\r\n\r\nbody {\r\n    margin: 10px;\r\n    padding: 0;\r\n    font-family: sans-serif;\r\n\r\n    h1{\r\n        color: blue;\r\n    }\r\n  }\r\n  \r\n  *{\r\n    color: red;\r\n  }"
+	],
+	"mappings": ";AAEA,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,IAAK;EACb,OAAO,EAAE,CAAE;EACX,WAAW,EAAE,UAAW;CAKzB;;;AARH,AAKI,IALA,CAKA,EAAE,CAAA;EACE,KAAK,EAAE,IAAK;CACf;;;AAGH,AAAA,CAAC,CAAA;EACC,KAAK,EAAE,GAAI;CACZ",
+	"names": []
+}

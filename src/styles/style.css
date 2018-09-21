@@ -1,0 +1,33 @@
+/* line 2, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+html {
+  font-size: 62.5%;
+}
+
+/* line 6, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.6rem;
+}
+
+/* line 11, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+button {
+  cursor: pointer;
+}
+
+/* line 15, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+button:disabled {
+  cursor: default;
+}
+
+/* line 19, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+.is-active {
+  font-weight: bold;
+  color: blue;
+}
+
+/* line 24, D:/FRONTEND UTVECKLING/UDMY_COURSES/REACT/portifolio-site/src/sass/base/_base.scss */
+.header-link {
+  margin: 10px;
+}
+
+/*# sourceMappingURL=../styles/style.map */
